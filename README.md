@@ -2,8 +2,8 @@
 The installation is for Linux
 1. Clone this repository and navigate to MoLA folder
    ```bash
-   git clone https://github.com/GCYZSL/MoLA.git
-   cd MoLA
+   git clone https://github.com/LI-MAX72/cgcl-project-lora-moe.git
+   cd cgcl-project-lora-moe
    ```
 2. Install dependencies
    ```bash
